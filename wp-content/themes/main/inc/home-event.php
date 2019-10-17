@@ -15,9 +15,9 @@
       <?php while ($query->have_posts()): $query->the_post() ?>
           <?php include "event-card.php" ?>
       <?php endwhile ?>
-      <div class="row">
+      <!-- <div class="row">
         <button class="btn btn--secondary button-events" onclick="location.href='page-tickets'" rel="category tag">Еще</button>
-      </div>
+      </div> -->
     </section>
 
 <?php wp_reset_query(); ?>

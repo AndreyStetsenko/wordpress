@@ -16,7 +16,7 @@
 
           <h3 class="h6">Отправить сообщение</h3>
 
-          <?php echo do_shortcode( '[contact-form-7 id="14510" title="Form footer"]' ); ?>
+          <?php echo do_shortcode( '[contact-form-7 id="18711" title="Form foot"]' ); ?>
 
       </div> <!-- end contact-primary -->
 
@@ -70,7 +70,7 @@
         <div class="col-twelve">
             <div class="copyright">
                 <span>© Gena VITER 2019</span>
-                <span>Website Development by <a href="https://www.facebook.com/stetsenko.freelance" target="_blank">Andrew Stetsenko</a></span>
+                <span>Website Development by <a href="https://kontramarka.ua" target="_blank">Kontramarka.ua</a><!-- &nbsp;<a href="https://www.facebook.com/stetsenko.freelance" target="_blank"><img src="http://knu.mticket.com.ua/img/as.png" width="16px;"></a> --></span>
             </div>
 
             <div class="go-top">
